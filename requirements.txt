@@ -1,0 +1,8 @@
+google-cloud-aiplatform
+pinecone
+fastapi
+uvicorn
+pydantic
+streamlit
+requests
+python-dotenv
